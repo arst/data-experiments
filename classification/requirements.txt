@@ -3,3 +3,4 @@ jupyterlab-lsp
 pandas
 jupyterlab
 matplotlib
+scikit-learn
