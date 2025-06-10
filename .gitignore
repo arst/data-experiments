@@ -404,3 +404,84 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter runtime (like kernel logs)
+~/.ipython/
+~/.jupyter/
+*.nbconvert.ipynb
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# PyCharm settings
+.idea/
+
+# Test/report files
+*.log
+*.out
+*.tmp
+*.coverage
+coverage.xml
+htmlcov/
+.tox/
+nosetests.xml
+test-results/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+
+# Environment and dependency management
+Pipfile.lock
+poetry.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup files
+*.bak
+*.swp
+*.swo
+
+# Data files (optional, if large/generated)
+*.csv
+*.tsv
+*.json
+*.parquet
+*.h5
+*.pkl
+
+# Notebook metadata backups (optional)
+.ipynb~
+
+# Auto-generated requirements
+requirements.txt~
+
+# Python environment markers (optional)
+.python-version
+
+.virtual_documents/
+
